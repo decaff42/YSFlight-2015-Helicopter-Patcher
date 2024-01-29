@@ -14,7 +14,7 @@ Note: May change characters, especially Japaneese characters in text files, so p
 __author__ = "Decaff42"
 __contributor__ = "waspe414 a.k.a. Ultraviolet"
 __version__ = "1.1"
-__date__ = "27 January 2024"
+__date__ = "28 January 2024"
 __license__ = "CC BY-NC, https://creativecommons.org/licenses/by-nc/4.0/"
 
 
